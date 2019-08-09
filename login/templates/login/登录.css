@@ -1,0 +1,46 @@
+.login_block{
+    margin-left: 550px;
+    padding:20px;
+    height:300px;
+    width:450px;
+    background-color: rgb(176, 198, 245);
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+
+}
+
+.input{
+    height:33px;
+    line-height: 25px;
+}
+
+.top{
+    margin-top: 250px;
+    margin-left: 550px;
+    height:60px;
+    width:160px;
+    line-height: 60px;
+}
+
+.top_button1{
+    font-size:30px;
+
+    width:80px;
+    text-align:center;
+    height:60px;
+    line-height:60px;
+}
+
+.top_button2{
+    font-size:30px;
+    width:80px;
+    text-align:center;
+    height:60px;
+    line-height:60px;
+}
+
+.register{
+    width:400px;
+    height:250px;
+    margin-left: 20px;
+}
